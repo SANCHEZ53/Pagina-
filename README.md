@@ -92,6 +92,7 @@
     <div class="column">
         <h2>Asesinato</h2>
         <p> El 31 de marzo de 1995, Selena recibió un disparo y fue asesinada a los 23 años de edad por Yolanda Saldívar quien era su ex directora de las boutiques de Selena a principios de 1994,ocho meses despues, Selena nombró a Saldivar como su agente registradora en San Antonio. Saldivar fue acorralada por la policia cuando intento huir ella fue declarada culpable de asesinato y sentenciada a cadena perpetua con posible libertad condicional despúes de 30 años, dos semanas después, George W.Bush, el entonces gobernador de texas, declaró el 16 de abril como el Dia de Selena en Texas .</p>
+        
         <img src="3.Mu.JPEG" alt="">
     </div>
 </div>
